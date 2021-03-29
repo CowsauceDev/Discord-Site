@@ -1,0 +1,24 @@
+$ .git/info/exclude
+
+build/
+bin/
+run/
+target/
+
+.settings/
+.vscode/
+
+src/generated/
+src/test/
+
+
+.DS_STORE
+.classpath
+.project
+.meta
+.factorypath
+
+
+reference.conf
+pom.xml
+data.db
